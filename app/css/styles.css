@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+}
+
+#title {
+    font-size: 48px;
+}
+
+p {
+    color: green;
+}
+
+hr {
+    color: green;
+}
+
+#selfie img {
+    border-radius: 50%;
+}
+
+#about {
+    font-size: 30px;
+}
