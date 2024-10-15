@@ -8,6 +8,7 @@ from streamlit_option_menu import option_menu
 import webbrowser
 import vars
 import functions
+import projects
 
 ## SETUP PAGE ##
 st.set_page_config(page_title=vars.page_title, layout="wide", page_icon="👾")
@@ -67,4 +68,4 @@ if selected == "Home":
 elif selected == "Contact":
    st.markdown(webform, unsafe_allow_html=True)
 elif selected == "Projects":
-    st.title("Coming Soon...")
+    projects.main()
