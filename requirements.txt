@@ -1,3 +1,2 @@
 streamlit-lottie
 streamlit-option-menu
-webbrowser

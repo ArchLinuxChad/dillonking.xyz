@@ -47,8 +47,7 @@ if selected == "Home":
         st.header("Hi, I'm Dillon 🤖")
         st.title("A Computer Nerd that loves Python and Linux")
         st.write("I am passionate about making fun, intiutive and good looking web apps in python. I am also a proud linux user and passionatley use Emacs.")
-        if st.button("See Website Code"):
-            webbrowser.open("https://github.com/ArchLinuxChad/dillonking.xyz")
+        st.link_button("See Website Code", "https://github.com/ArchLinuxChad/dillonking.xyz")
 
     st.write("---")
 
