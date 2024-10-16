@@ -6,5 +6,6 @@ def main():
         st.header("Grade Reviewer")
         st.write("Visualises GSCE grades into charts to make it easier to understand.")
         st.link_button("Check it out here", "https://gradesanalyser.streamlit.app")
+        st.link_button("Github", "https://github.com/ArchLinuxChad/gradesAnalyzer.git")
 
     st.write("---")
