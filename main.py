@@ -37,8 +37,8 @@ functions.load_css(vars.css)
 ## MENU ##
 selected = option_menu(
     menu_title = None,
-    options = ["Home", "Contact", "Projects"],
-    icons = ["house", "input-cursor-text", "person-workspace"],
+    options = ["Home", "Contact", "Blog", "Projects"],
+    icons = ["house", "input-cursor-text", "substack", "person-workspace"],
     orientation="horizontal"
 )
 
@@ -46,8 +46,8 @@ if selected == "Home":
     ## PAGE TITLE ##
     with st.container():
         st.header("Hi, I'm Dillon 🤖")
-        st.title("A Computer Nerd that loves Python and Linux")
-        st.write("I am passionate about making fun, intiutive and good looking web apps in python. I am also a proud linux user and passionatley use Emacs.")
+        st.title("A Computer Nerd that loves Python, Networks and Linux")
+        st.write("I am pasionate about Linux, Bash and spreading the word of linux. I am also a proud linux user and passionatley use Emacs.")
         st.link_button("See Website Code", "https://github.com/ArchLinuxChad/dillonking.xyz")
 
     st.write("---")
@@ -65,7 +65,14 @@ if selected == "Home":
             ''')
         with col_image:
             st_lottie(lottie_file, height=500)
+
+        st.write("---")
+        with st.container():
+            st.header("My Linux Journey")
+            st.write("I started using Linux in September of 2022 then went back to windows I continued this pattern ")
 elif selected == "Contact":
    st.markdown(webform, unsafe_allow_html=True)
+elif selected == "Blog":
+    st.link_button("Go To Blog", "https://dillonking.substack.com/")
 elif selected == "Projects":
     projects.main()
