@@ -65,11 +65,6 @@ if selected == "Home":
             ''')
         with col_image:
             st_lottie(lottie_file, height=500)
-
-        st.write("---")
-        with st.container():
-            st.header("My Linux Journey")
-            st.write("I started using Linux in September of 2022 then went back to windows I continued this pattern ")
 elif selected == "Contact":
    st.markdown(webform, unsafe_allow_html=True)
 elif selected == "Blog":
