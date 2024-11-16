@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?</copyright>
-    <lastBuildDate>Fri, 15 Nov 2024 22:41:22 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Nov 2024 14:34:28 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A guide to UFW</title>
+      <link>/posts/ufw/</link>
+      <pubDate>Sat, 16 Nov 2024 14:34:28 +0000</pubDate>
+      
+      <guid>/posts/ufw/</guid>
+      <description>What is UFW?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/ufw/featured.jpg" />
+    </item>
+    
     <item>
       <title>My New Tool, Bashfetch</title>
       <link>/posts/bashfetch/</link>
