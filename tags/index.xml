@@ -7,13 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?</copyright>
-    <lastBuildDate>Sat, 16 Nov 2024 14:34:28 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Nov 2024 17:52:20 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Controversy</title>
+      <link>/tags/controversy/</link>
+      <pubDate>Sun, 17 Nov 2024 17:52:20 +0000</pubDate>
+      
+      <guid>/tags/controversy/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Linux</title>
       <link>/tags/linux/</link>
-      <pubDate>Sat, 16 Nov 2024 14:34:28 +0000</pubDate>
+      <pubDate>Sun, 17 Nov 2024 17:52:20 +0000</pubDate>
       
       <guid>/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Sun, 17 Nov 2024 17:52:20 +0000</pubDate>
+      
+      <guid>/tags/tech/</guid>
       <description></description>
       
     </item>

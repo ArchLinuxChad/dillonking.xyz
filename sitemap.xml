@@ -9,6 +9,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>/posts/not-linux/</loc>
+    <lastmod>2024-11-17T17:52:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/posts/</loc>
     <lastmod>2024-11-17T17:52:20+00:00</lastmod>
     <changefreq>daily</changefreq>
