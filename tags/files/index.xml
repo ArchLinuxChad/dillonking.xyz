@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Networks on Dillon King</title>
-    <link>/tags/networks/</link>
-    <description>Recent content in Networks on Dillon King</description>
+    <title>Files on Dillon King</title>
+    <link>/tags/files/</link>
+    <description>Recent content in Files on Dillon King</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?</copyright>
-    <lastBuildDate>Mon, 02 Dec 2024 13:09:33 +0000</lastBuildDate><atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 13:09:33 +0000</lastBuildDate><atom:link href="/tags/files/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Copy a File Network In Linux</title>
       <link>/posts/copy-file-network/</link>
@@ -16,16 +16,6 @@
       <guid>/posts/copy-file-network/</guid>
       <description>Introduction # Hello everyone, today I am going to show you how you can copy files over the network on your Linux devices.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/copy-file-network/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>A guide to UFW</title>
-      <link>/posts/ufw/</link>
-      <pubDate>Sat, 16 Nov 2024 14:34:28 +0000</pubDate>
-      
-      <guid>/posts/ufw/</guid>
-      <description>What is UFW?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/ufw/featured.jpg" />
     </item>
     
   </channel>

@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 17:52:20 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2024 13:09:33 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Files</title>
+      <link>/tags/files/</link>
+      <pubDate>Mon, 02 Dec 2024 13:09:33 +0000</pubDate>
+      
+      <guid>/tags/files/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Mon, 02 Dec 2024 13:09:33 +0000</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>/tags/networks/</link>
+      <pubDate>Mon, 02 Dec 2024 13:09:33 +0000</pubDate>
+      
+      <guid>/tags/networks/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Controversy</title>
       <link>/tags/controversy/</link>
@@ -19,31 +49,11 @@
     </item>
     
     <item>
-      <title>Linux</title>
-      <link>/tags/linux/</link>
-      <pubDate>Sun, 17 Nov 2024 17:52:20 +0000</pubDate>
-      
-      <guid>/tags/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Tech</title>
       <link>/tags/tech/</link>
       <pubDate>Sun, 17 Nov 2024 17:52:20 +0000</pubDate>
       
       <guid>/tags/tech/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Networks</title>
-      <link>/tags/networks/</link>
-      <pubDate>Sat, 16 Nov 2024 14:34:28 +0000</pubDate>
-      
-      <guid>/tags/networks/</guid>
       <description></description>
       
     </item>
