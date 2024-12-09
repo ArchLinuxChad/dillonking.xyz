@@ -1,0 +1,21 @@
+body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  background-color: #dc143c;
+  overflow: hidden;
+  color: #black;
+}
+
+.picture, .fsf {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.picture img {
+  border-radius: 50%;
+}
+
