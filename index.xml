@@ -8,12 +8,5 @@
     <language>en-US</language>
     <copyright>Copy, Right?</copyright>
     <atom:link href="https://dillonking.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Political Views</title>
-      <link>https://dillonking.xyz/politics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dillonking.xyz/politics/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
