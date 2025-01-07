@@ -7,6 +7,14 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copy, Right?</copyright>
+    <lastBuildDate>Tue, 07 Jan 2025 09:45:03 +0000</lastBuildDate>
     <atom:link href="https://dillonking.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Switch to Awesomewm</title>
+      <link>https://dillonking.xyz/my-switch-to-awesomewm/</link>
+      <pubDate>Tue, 07 Jan 2025 09:45:03 +0000</pubDate>
+      <guid>https://dillonking.xyz/my-switch-to-awesomewm/</guid>
+      <description>&lt;p&gt;Recently I have switches from herbstluftwm to using awesomewm.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-did-i-switch&#34;&gt;Why Did I Switch&lt;/h1&gt;&#xA;&lt;p&gt;I switched because herbstluftwm is a manual tiler meaning you have to choose were the next window is going to spawn, but I wanted to move to a dynamic tiler. A dynamic tiler spawns your new window into a position which is predefined by a layout, this means you can just open windows and not worry about where they are going to tile.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
