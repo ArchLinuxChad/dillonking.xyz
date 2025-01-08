@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copy, Right?</copyright>
-    <lastBuildDate>Tue, 07 Jan 2025 09:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 09:06:37 +0000</lastBuildDate>
     <atom:link href="https://dillonking.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making a website has never been easier</title>
+      <link>https://dillonking.xyz/making-a-website-has-never-been-easier/</link>
+      <pubDate>Wed, 08 Jan 2025 09:06:37 +0000</pubDate>
+      <guid>https://dillonking.xyz/making-a-website-has-never-been-easier/</guid>
+      <description>&lt;p&gt;I thought I woud make a post&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My Switch to Awesomewm</title>
       <link>https://dillonking.xyz/my-switch-to-awesomewm/</link>
